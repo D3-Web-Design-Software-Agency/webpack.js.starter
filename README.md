@@ -1,2 +1,5 @@
 # webpack.js.starter
-webpack starter code 
+webpack starter code
+
+npm install 
+npm run build
